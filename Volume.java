@@ -20,10 +20,7 @@ class Volume
 	}
 
 
-	System.out.println("Bantu da r code eta");
-
-
-
+	System.out.println("skm er baal sala");
 
 	public static void main(String[] args)
 	{
