@@ -30,6 +30,8 @@ public class AppCalculator extends Applet implements ActionListener
         add(r);
         add(output);
 
+
+
 		b1.addActionListener(this);
 		b2.addActionListener(this);
 		b3.addActionListener(this);
